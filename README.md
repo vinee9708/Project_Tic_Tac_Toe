@@ -6,9 +6,13 @@ A two-player, console-based Tic-Tac-Toe game written in C.
 
 ## Team Members
 
-| Name | Roll No. | GitHub |
-|------|----------|--------|
-|Vinay | 26CSU154 |vinee9708|
+| S.No | Name | Roll No. | GitHub |
+|------|------|----------|--------|
+| 1 | Vinay | 26CSU154 | [vinee9708](https://github.com/vinee9708) |
+| 2 | Rudra Rao | 26CSU149 | [KhakiVolcano67](https://github.com/KhakiVolcano67) |
+| 3 | Paras Manchanda | 26CSU142 | [paras26csu142-prog](https://github.com/paras26csu142-prog) |
+| 4 | Aditya Dahiya | 26CSU148 | [adityadahiyabtech](https://github.com/adityadahiyabtech) |
+| 5 | Saksham Chauhan | 26CSU158 | [saksham9749ml](https://github.com/saksham9749ml) |
 
 ## Description
 
